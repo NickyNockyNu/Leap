@@ -1,0 +1,16 @@
+**/__history
+**/__recovery
+**/DCU
+**/*.~*
+**/*.dcu
+**/*.dproj
+**/*.local
+**/*.identcache
+**/*.exe
+**/*.map
+**/*.delphilsp.json
+**/Release/Leap.exe.WebView2
+
+
+
+
